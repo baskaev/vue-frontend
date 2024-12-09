@@ -1,3 +1,5 @@
+just a repo for my kinonavt.com project
+
 # vue-frontend
 
 ## Project setup
